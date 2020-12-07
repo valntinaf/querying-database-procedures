@@ -16,6 +16,8 @@ BEGIN
 END;
 ```
 
+## Implementation
+
 > In RepositoryLibrary class
 ```java
 public static List<Book> getAllBooks() {
